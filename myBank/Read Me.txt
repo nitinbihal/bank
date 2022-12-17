@@ -1,0 +1,13 @@
+The project size was nearly 10mb. 
+So the Lib folder containing the jar file has been divided 
+and into two parts and is uploaded seperately.
+
+The contents of lib_1, lib_2 and lib_3 has to be 
+mergerged into one folder names libs.
+Later the folder should be pasted into the mybank-bank folder.
+Thankyou.
+
+Nitin Bihal
+Muskan Kaur
+SimranPreet Kaur
+Jagdeep Singh
